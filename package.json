@@ -2,5 +2,8 @@
   "name": "com.wolffun.wolffun.odin_inspector",
   "displayName": "Odin Inspector",
   "version": "3.0.13",
-  "unity": "2020.3"
+  "unity": "2020.3",
+  "dependencies": {
+    "com.unity.mathematics": "1.1.0"
+  }
 }
